@@ -1,4 +1,4 @@
 GitExercise
 ===========
 
-Git exercise for shool
+Git exercise for school
